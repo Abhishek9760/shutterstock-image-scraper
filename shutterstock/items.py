@@ -5,6 +5,9 @@
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/items.html
 
+# this is something very important that i am about to tell
+#do not skip https://doc.scrapy.org/en/latest/topics/items.html 
+#read very carefully thx:)
 import scrapy
 
 
